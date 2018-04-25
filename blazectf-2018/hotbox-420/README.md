@@ -5,8 +5,7 @@
 
 4 Solves
 
-Problem description:
-
+**Problem description**:
 ```
 open the WINDOWS!!! you know how to reuse a sockfd right?
 
@@ -14,6 +13,7 @@ ncat hotbox.420blaze.in 42069 (expect 1 in 4 requests to fail, but 42070 and 420
 
 if you can't pwn, plz open your own windows: X13-04874.img - Version 5.2.3790
 ```
+---
 
 This is actually a very easy Windows 2003 pwn, I don't know why there were so few solves. Maybe because it's Windows?
 
