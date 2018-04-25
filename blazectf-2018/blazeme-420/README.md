@@ -1,4 +1,4 @@
-# Hotbox
+# Blazeme
 **Category**: Pwn
 
 420 Points
